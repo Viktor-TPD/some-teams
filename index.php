@@ -28,10 +28,12 @@
 <body>
     <?php foreach ($teams as $team => $teamName):
     ?><article>
+        <h1><?= $team; ?></h1>
         <img src="<?= $teamName['logo']; ?>" alt="<?= $team ?>'s logo.">
-        <h1><?= $team;?></h1>
-
-
+        <p><?= $team ?> plays in the <?= $teamName['league']; ?> in group <?= $teamName['group']; ?> 
+        . Their UEFA coefficent ranking is <?= $teamName['uefa-coefficient-ranking']; ?>. 
+        If you're unable to see them play on their home-turf in <?= $teamName['city']?> 
+        give their <a href="<?= $teamName['url'] ?>">website</a> a visit.<br>
     </article>
     <?php endforeach; ?>
 
