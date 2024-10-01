@@ -2,7 +2,7 @@
 
 ## TO DO
 
-    * Bestäm dig för någon sorts system för att "markera" ett krav som uppfyllt. (Unna när du har uppfyllt ett krav.)
+
     * Fixa 'header.php' och 'footer.php' och fylla dem med relevant innehåll.
 
 ## IN PROGRESS
@@ -21,6 +21,7 @@
     * *Skapa 'about.php', 'data.php'*
     * *Fixa 'base.html'.*
     * *Skapa ett MIT LICENSE.txt*
+    * *Bestäm dig för någon sorts system för att "markera" ett krav som uppfyllt. (Unna när du har uppfyllt ett krav.) (JAG LÄGGER TILL ETT *KLAR* *I BÖRJAN AV RUBRIKEN)*
 
 ## LISTA PÅ KRAV
 # The data you will be using is in data.php.
@@ -50,7 +51,7 @@ Kommer gå bra. Redan uppe i ett par, kommer komma ett till efter jag skrivit ig
 # The repository should contain a README.md file with information about the project (usually a README.md includes information about what the project is about, how it's made, about the author, install instructions if any and such stuff)
 Fair enough. Känns rimligt att kanske ha det här dokumentet som ett WIP och sen renskriva det till 'README'. 
 
-# The repository should contain a LICENSE file. Preferably MIT.
+# *KLAR* The repository should contain a LICENSE file. Preferably MIT.
 ~~Löser detta direkt efter att jag har committat.~~ Fixat!
 
 # *xoxo, Viktor*
