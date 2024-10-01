@@ -7,7 +7,7 @@
 
 ## IN PROGRESS
 
-    * Fixa 'base.html'.
+
     
 
 ## GLOBAL TO DO
@@ -19,6 +19,9 @@
     * *Skapa 'index.php'*
     * *Skapa och fyll i första instansen av TO DO*
     * *Skapa 'about.php', 'data.php'*
+    * *Fixa 'base.html'.*
+    * *Skapa ett MIT LICENSE.txt*
+
 ## LISTA PÅ KRAV
 # The data you will be using is in data.php.
 ~~ Antar att data innebär saker som variabler.~~ Nej, fanns en resource page på uppgiften. Har antingen 
@@ -48,6 +51,6 @@ Kommer gå bra. Redan uppe i ett par, kommer komma ett till efter jag skrivit ig
 Fair enough. Känns rimligt att kanske ha det här dokumentet som ett WIP och sen renskriva det till 'README'. 
 
 # The repository should contain a LICENSE file. Preferably MIT.
-Löser detta direkt efter att jag har committat.
+~~Löser detta direkt efter att jag har committat.~~ Fixat!
 
 # *xoxo, Viktor*
