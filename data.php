@@ -1,4 +1,4 @@
-<!-- // THIS IS WHERE MY DATA WILL GO :)c -->
+<!-- DATA ABOUT SOCCER TEAMS -->
 <?php
 
 $teams = [

@@ -1,27 +1,25 @@
 # Ok, dags att göra hemsida. 
 
 ## TO DO
-
-
-    * Fixa 'header.php' och 'footer.php' och fylla dem med relevant innehåll.
+* Fixa 'header.php' och 'footer.php' och fylla dem med relevant innehåll.
 
 ## IN PROGRESS
 
-
+* Strukturera upp 'index.php'
     
 
 ## GLOBAL TO DO
-
-    * Släng ett öga då och då och se till att du jobbar i paritet med uppgifterna.
+* Släng ett öga då och då och se till att du jobbar i paritet med uppgifterna.
 
 ## *BACKLOG*
-   *~~ * Kanske skissa lite i figma? Bara för att få grepp på det?~~ Nah, kör på känsla. Kanske om det finns individuella element jag är sugen på så kan jag testa i figma först.*
-    * *Skapa 'index.php'*
-    * *Skapa och fyll i första instansen av TO DO*
-    * *Skapa 'about.php', 'data.php'*
-    * *Fixa 'base.html'.*
-    * *Skapa ett MIT LICENSE.txt*
-    * *Bestäm dig för någon sorts system för att "markera" ett krav som uppfyllt. (Unna när du har uppfyllt ett krav.) (JAG LÄGGER TILL ETT *KLAR* *I BÖRJAN AV RUBRIKEN)*
+*   *~~ * Kanske skissa lite i figma? Bara för att få grepp på det?~~ Nah, kör på känsla. Kanske om det finns individuella element jag är sugen på så kan jag testa i figma först.*
+* *Skapa 'index.php'*
+* *Skapa och fyll i första instansen av TO DO*
+* *Skapa 'about.php', 'data.php'*
+* *Fixa 'base.html'.*
+* *Skapa ett MIT LICENSE.txt*
+* *Bestäm dig för någon sorts system för att "markera" ett krav som uppfyllt. (Unna när du har uppfyllt ett krav.) (JAG LÄGGER TILL ETT *KLAR* *I BÖRJAN AV RUBRIKEN)*
+* *Lagt till 'header.php' och 'footer.php'. Ej lagt till relevant innehåll.*
 
 ## LISTA PÅ KRAV
 # The data you will be using is in data.php.
