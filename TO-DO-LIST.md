@@ -33,7 +33,7 @@
 # *KLAR* Your web site should contain a start page and a about page.
 Fixat! Nu ska jag bara se till att fylla dem med innehåll. 
 
-# The about page should have information about you, the creator.
+# *KLAR* The about page should have information about you, the creator.
 In progress!
 
 # *KLAR* The start page should be constructed with at least three different .php files, and should display the teams listed in data.php. Feel free to list them how you like.
@@ -50,7 +50,7 @@ In progress!
 Kommer gå bra. Redan uppe i ett par, kommer komma ett till efter jag skrivit igenom alla underrubrikerna här.
  *FIXAT; HAR ÖVER 7 COMMITS OCH INGEN ÄR EN STOR MEGACHUNK*
 
-# The repository should contain a README.md file with information about the project (usually a README.md includes information about what the project is about, how it's made, about the author, install instructions if any and such stuff)
+# *KLAR* The repository should contain a README.md file with information about the project (usually a README.md includes information about what the project is about, how it's made, about the author, install instructions if any and such stuff)
 Fair enough. Känns rimligt att kanske ha det här dokumentet som ett WIP och sen renskriva det till 'README'. 
 
 # *KLAR* The repository should contain a LICENSE file. Preferably MIT.
