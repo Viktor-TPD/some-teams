@@ -30,7 +30,7 @@
 # *KLAR* The data you will be using is in data.php.
 *DET GÖR DEN*
 
-# Your web site should contain a start page and a about page.
+# *KLAR* Your web site should contain a start page and a about page.
 Fixat! Nu ska jag bara se till att fylla dem med innehåll. 
 
 # The about page should have information about you, the creator.
@@ -40,10 +40,10 @@ In progress!
 'index.php' kommer använda både 'footer.php' och 'header.php'; så kommer gå bra. ***DUBBELKOLLA ATT DETTA STÄMMER.***
 *I NULÄGET STÄMMER DETTA*
 
-# The project should not print any HTML within PHP strings.
+# **MVP**The project should not print any HTML within PHP strings.
 ***SE TILL ATT DET HÄR INTE HÄNDER***
 
-# The project should not include any coding errors, warning or notices.
+# **MVP**The project should not include any coding errors, warning or notices.
 ***SE TILL ATT DET HÄR INTE HÄNDER***
 
 # *KLAR* The repository should have at least 7 commits and not just one big commit.

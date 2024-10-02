@@ -30,10 +30,16 @@ img {
 p {
     width: 200px;
     height: 200px;
+    /* background-image:url("assets/Frame_8.png"); KUL, TESTA SEN! */
 }
 
 article > p {
     font-size: 20px;
     width: 400px;
     text-align: justify;
+    height: fit-content;
+}
+
+footer {
+    padding: 10px;
 }
