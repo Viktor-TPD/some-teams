@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-    <!-- THIS IS WHERE MY LANDING PAGE GOES :) -->
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🏃‍♀️⚽Some Teams⚽🏃‍♀️</title>
-    <link rel="stylesheet" href="style.css" />
-    <!-- PHP STUFFS -->
-    <?php include_once __DIR__ . '/data.php'; ?>
-</head>
-<!-- ^ skicka till header.php -->
-<!-- include_once __DIR__ . "header.php"; --> <!-- lägg till php tags här! -->
+<!-- include header.php -->
+<?php include_once __DIR__ . "/header.php"; ?>
 <body>
     <div class="article_container">
 
