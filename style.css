@@ -1,0 +1,17 @@
+.article_container {
+    width: 80%;
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+p {
+    width: 200px;
+    height: 200px;
+}
