@@ -1,4 +1,4 @@
-<!-- include header.php -->
+<!-- header goes here -->
 <?php include_once __DIR__ . "/header.php"; ?>
 <body>
     <div class="article_container">
@@ -15,6 +15,7 @@
     <?php endforeach; ?>
 </div>
 
+<!-- footer goes here -->
 <?php include_once __DIR__ . "/footer.php"; ?>
 
 

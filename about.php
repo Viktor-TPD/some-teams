@@ -1,13 +1,13 @@
-<!-- THIS IS WHERE INFO ABOUT ME GOES! :)  -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<!-- header goes here -->
+<?php include_once __DIR__ . "/header.php"; ?>
 <body>
-    <p>TESTTETS
+
+<h1>About me</h1>
+<article>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum suscipit aliquam beatae praesentium velit reprehenderit minus consequatur harum, explicabo aut quibusdam similique nulla. Minima sunt dolor doloribus sint blanditiis!
     </p>
-</body>
-</html>
+</article>
+
+    <!-- footer goes here -->
+<?php include_once __DIR__ . "/footer.php"; ?>
