@@ -9,8 +9,8 @@
     <!-- PHP STUFFS -->
     <?php include_once __DIR__ . '/data.php'; ?>
     <nav>
-        <a href="/index.php">Teams</a>
-        <img src="/assets/x1/Frame 2.2.png" alt="Two cartoon skulls facing away from eachother.">
-        <a href="/about.php">About</a>
+        <a href="index.php">Teams</a>
+        <img src="assets/x1/Frame 2.2.png" alt="Two cartoon skulls facing away from eachother.">
+        <a href="about.php">About</a>
     </nav>
 </head>

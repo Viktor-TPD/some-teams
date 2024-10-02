@@ -7,6 +7,7 @@
  
 ## IN PROGRESS
 
+* Felsök varför länkarna inte funkar
 * Fyll 'about.php' med relevant innehåll
     
 
