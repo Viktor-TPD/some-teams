@@ -1,5 +1,5 @@
 <footer>
-    <p>FOOTER CONTENT GOES HERE</p>
+    <p><?= date("Y") ?> Viktor Tohver Stridh</p>
 </footer>
 
 </body>
