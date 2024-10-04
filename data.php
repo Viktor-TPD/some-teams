@@ -59,7 +59,7 @@ $teams = [
         'group' => 'N/A'
     ],
     'Arsenal' => [
-        'league' => 'Women\’s Super League (England)',
+        'league' => 'Women’s Super League (England)',
         'uefa-coefficient-ranking' => 7,
         'city' => 'London',
         'url' => 'https://www.arsenal.com/',
@@ -99,7 +99,7 @@ $teams = [
         'group' => 'B'
     ],
     'Galatasaray' => [
-        'league' => 'Turkish Women\’s Super League',
+        'league' => 'Turkish Women’s Super League',
         'uefa-coefficient-ranking' => 'Not ranked',
         'city' => 'Istanbul',
         'url' => 'https://www.galatasaray.org/',
@@ -123,7 +123,7 @@ $teams = [
         'group' => 'D'
     ],
     'Manchester City' => [
-        'league' => 'Women\’s Super League (England)',
+        'league' => 'Women’s Super League (England)',
         'uefa-coefficient-ranking' => 9,
         'city' => 'Manchester',
         'url' => 'https://www.mancity.com/',
