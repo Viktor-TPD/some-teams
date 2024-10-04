@@ -1,12 +1,16 @@
+<!-- HEADER GOES HERE -->
 <?php include_once __DIR__ . "/header.php"; ?>
+
 <body>
     <div class="master_container">
+        <!-- Logo Grid on the Left -->
         <div class="logo_container">
             <?php foreach ($teams as $index => $teamName): ?>
                 <div class="logo_item">
                     <img src="<?= $teamName['logo']; ?>" alt="<?= $teamName['name'] ?>'s logo.">
                 </div>
 
+                <!-- Article corresponding to the logo -->
                 <div class="article_item">
                     <section>
                         <h1><?= $teamName['name']; ?></h1>
@@ -26,10 +30,10 @@
                     <section>
                         <p><?= $teamName['url'] ?></p>
                     </section>
-                    
                 </div>
             <?php endforeach; ?>
         </div>
     </div>
 
+    <!-- FOOTER GOES HERE -->
 <?php include_once __DIR__ . "/footer.php"; ?>

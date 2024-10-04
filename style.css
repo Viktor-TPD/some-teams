@@ -7,9 +7,7 @@ nav {
     background-color:#4ca183;
     display: flex;
     justify-content: flex-end;
-    font-family: 'Fascinate Inline';
-
-    
+    font-family: 'Fascinate Inline';    
 }
 
 .nav_items {
@@ -28,9 +26,7 @@ body {
     padding-bottom: 5%;
     top: 30px;
     background-color: #ffecbc;
-
 }
-
 
 
 .master_container {
@@ -54,16 +50,15 @@ body {
     height: 100px;
     object-fit: cover;
     cursor: pointer;
-    position: relative; /* Add relative positioning for the hover effect */
-    overflow: hidden; /* Ensure the logo doesn't exceed the item bounds */
-    transition: background-color 1.6s ease, transform 0.8s ease; /* Smooth transition for color and scale */
-    border-radius: 10px;
-    
+    position: relative; 
+    overflow: hidden; 
+    transition: background-color 1.6s ease, transform 0.8s ease; 
+    border-radius: 10px;    
 }
 
 .logo_item:hover {
-    background-color: #77ffbe; /* Light blue background on hover */
-    transform: scale(1.1); /* Slightly enlarge the logo */
+    background-color: #77ffbe; 
+    transform: scale(1.1); 
 }
 
 .logo_item img {
@@ -71,12 +66,10 @@ body {
     height: 100%;
 }
 
-
-
 .article_item {
     position: absolute;
-    left: 650px;
-    top: 100px;
+    left: 60%;
+    top: 25%;
     width: 400px;
     padding: 20px;
     background-color: #77ffbe;
@@ -118,4 +111,7 @@ footer {
     width: 100%;
     height: 10%;
     background-color: #4ca183;
+
+    display: flex;
+    justify-content: center;
 }
