@@ -12,7 +12,9 @@
         <!-- <img src="assets/x1/Frame 2.2.png" alt="Two cartoon skulls facing away from eachother."> -->
         <div class="nav_items">
             <a href="index.php">Teams</a>
+            <a href="index2.php">Teams Nice</a>
             <a href="about.php">About</a>
+
         </div>
     </nav>
 </head>

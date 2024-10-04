@@ -2,14 +2,10 @@
 
 ## TO DO
 
-* Fyll 'header.php' med relevant innehåll
-* Fyll 'footer.php' med relevant innehåll
  
 ## IN PROGRESS
 
-* Felsök varför länkarna inte funkar
-* Fyll 'about.php' med relevant innehåll
-    
+* Make it pretty 
 
 ## GLOBAL TO DO
 * Släng ett öga då och då och se till att du jobbar i paritet med uppgifterna.
@@ -25,6 +21,10 @@
 * *Lagt till 'header.php' och 'footer.php'. Ej lagt till relevant innehåll.*
 * *Strukturera upp 'index.php'* *(Allt innehåll stämmer.)*
 * *Fixa 'header.php' och 'footer.php' ~~och fylla dem med relevant innehåll.~~* *(Båda funkar och är inne.)*
+* *Fyll 'header.php' med relevant innehåll*
+* *Fyll 'footer.php' med relevant innehåll*
+* *Felsök varför länkarna inte funkar*
+* *Fyll 'about.php' med relevant innehåll*
 
 ## LISTA PÅ KRAV
 # *KLAR* The data you will be using is in data.php.

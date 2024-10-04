@@ -43,3 +43,9 @@ article > p {
 footer {
     padding: 10px;
 }
+
+.logo_container {
+    display:grid;
+    grid-template-columns: repeat(9, 1rm);
+    grid-template-rows: reapeat (3, 200px);
+}
