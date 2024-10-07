@@ -5,7 +5,7 @@
     <div class="master_container">
         <!-- Logo Grid on the Left -->
         <div class="logo_container">
-            <?php foreach ($teams as $index => $teamName): ?>
+            <?php foreach ($teams as $team => $teamName): ?>
                 <div class="logo_item">
                     <img src="<?= $teamName['logo']; ?>" alt="<?= $teamName['name'] ?>'s logo.">
                 </div>
