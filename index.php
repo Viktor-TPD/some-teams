@@ -1,23 +1,45 @@
-<!-- header goes here -->
+<!-- HEADER GOES HERE -->
 <?php include_once __DIR__ . "/header.php"; ?>
+
+
 <body>
-    <div class="article_container">
+    <div class="master_container">
+        <!-- Logo Grid on the Left -->
+        <div class="logo_container">
+            <?php foreach ($teams as $team => $teamName): ?>
+                <div class="logo_item">
+                    <img src="<?= $teamName['logo']; ?>" alt="<?= $team; ?>'s logo.">
+                </div>
 
-        <?php foreach ($teams as $team => $teamName):
-    ?><article>
-        <h1><?= $team; ?></h1>
-        <img src="<?= $teamName['logo']; ?>" alt="<?= $team ?>'s logo.">
-        <p><?= $team ?> plays in the <?= $teamName['league']; ?> in group <?= $teamName['group']; ?> 
-        . Their UEFA coefficent ranking is <?= $teamName['uefa-coefficient-ranking']; ?>. 
-        If you're unable to see them play on their home-turf in <?= $teamName['city']?> 
-        give their <a href="<?= $teamName['url'] ?>">website</a> a visit.<br>
-    </article>
-    <?php endforeach; ?>
-</div>
-
-<!-- footer goes here -->
+                <!-- Article corresponding to the logo -->
+                <div class="article_item">
+                    <section>
+                        <h1><?= $team; ?></h1>
+                    </section>
+                    <section>
+                        <h3>LEAGUE: </h3> <p><?= $teamName['league']; ?></p>
+                    </section>
+                    <section>
+                        <h3>GROUP: </h3> <p><?= $teamName['group']; ?></p>
+                    </section>
+                    <section>
+                        <h3>UEFA COEFFICIENT RANKING: </h3> <p><?= $teamName['uefa-coefficient-ranking']; ?></p>
+                    </section>
+                    <section>
+                        <h3>CITY: </h3> <p><?= $teamName['city']; ?></p>
+                    </section>
+                    <section>
+                        <p><?= $teamName['url'] ?></p>
+                    </section>
+                </div>
+            <?php endforeach; ?>
+        </div>
+    </div>
+    <div class="default_box_container">
+        <img class="mascot" src="assets/Frame 2.4.png" alt="A sleepy talking skull.">
+        <div class="default_box">
+            <h3>Hover a team to display info.</h3>
+        </div>
+    </div>
+    <!-- FOOTER GOES HERE -->
 <?php include_once __DIR__ . "/footer.php"; ?>
-
-
-
-

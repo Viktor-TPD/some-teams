@@ -3,9 +3,10 @@
 ## TO DO
 
  
+
 ## IN PROGRESS
 
-* Make it pretty 
+~~* Make it pretty ~~
 
 ## GLOBAL TO DO
 * Släng ett öga då och då och se till att du jobbar i paritet med uppgifterna.
