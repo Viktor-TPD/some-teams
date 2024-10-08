@@ -2,7 +2,7 @@
 
 ## TO DO
 
- 
+ * Dynamisk header! 
 
 ## IN PROGRESS
 

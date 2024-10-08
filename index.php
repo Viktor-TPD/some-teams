@@ -1,5 +1,6 @@
 <!-- HEADER GOES HERE -->
-<?php include_once __DIR__ . "/header.php"; ?>
+<?php $dynamicTitle = "⚽💨 Some Teams"; 
+include_once __DIR__ . "/header.php"; ?>
 
 
 <body>

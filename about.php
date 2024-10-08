@@ -1,5 +1,6 @@
 <!-- header goes here -->
-<?php include_once __DIR__ . "/header.php"; ?>
+<?php $dynamicTitle = "🖐 About Me";
+include_once __DIR__ . "/header.php"; ?>
 <body>
 
 <h1 class="about">About me</h1>
